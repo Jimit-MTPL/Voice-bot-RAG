@@ -1,0 +1,6 @@
+__pycache__
+voice_rag
+chroma_db
+cache_model
+pipeline_store
+command.wav
